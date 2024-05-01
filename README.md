@@ -2,17 +2,19 @@
 <img align="right" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" width="400">
 <h1 align="center">Hi 👋, I'm Joseph Wambua</h1>
 <h3 align="center">A passionate Software developer from Kenya.</h3>
-<img align="right"  alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&tbnid=s6wSpS44H7ORgM&vet=10CAIQxiAoAGoXChMIqOaviPPshQMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddeveloper%2Bcartoon&docid=b2nbcE28T9G3dM&w=540&h=360&itg=1&q=animated%20coding%20images&ved=0CAIQxiAoAGoXChMIqOaviPPshQMVAAAAAB0AAAAAEA8">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josefwambua&label=Profile%20views&color=0e75b6&style=flat" alt="josefwambua" /> </p>
-
-- 🌱 I’m currently learning **Django, Flutter**
-
-- 👨‍💻 All of my projects are available at [joseph-wambua-portfolio.vercel.app/](joseph-wambua-portfolio.vercel.app/)
-
-- 💬 Ask me about **Javascript, Python**
-
-- 📫 How to reach me **josefwambua2@gmail.com**
+<div style="display: flex; align-items: flex-start;">
+    <div style="padding-top: 40px;">
+        <img src="https://komarev.com/ghpvc/?username=josefwambua&label=Profile%20views&color=0e75b6&style=flat" alt="josefwambua" />
+    </div>
+    <div style="margin-left: 20px;">
+        <ul>
+            <li>🌱 I’m currently learning <strong>Django, Flutter</strong></li>
+            <li>👨‍💻 All of my projects are available at <a href="https://joseph-wambua-portfolio.vercel.app/">joseph-wambua-portfolio.vercel.app</a></li>
+            <li>💬 Ask me about <strong>Javascript, Python</strong></li>
+            <li>📫 How to reach me <strong>josefwambua2@gmail.com <spa> | 0798169149</strong></li>
+        </ul>
+    </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
