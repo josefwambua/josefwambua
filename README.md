@@ -1,4 +1,5 @@
-
+<img src="https://cdn.dribbble.com/userupload/12479341/file/original-877e23584966cb04733d79a654cca2d0.jpg?resize=752x" alt="MasterHead" style="width:100%; height:400px;">
+<img align="right" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" width="400">
 <h1 align="center">Hi 👋, I'm Joseph Wambua</h1>
 <h3 align="center">A passionate Software developer from Kenya.</h3>
 <img align="right"  alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&tbnid=s6wSpS44H7ORgM&vet=10CAIQxiAoAGoXChMIqOaviPPshQMVAAAAAB0AAAAAEA8..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddeveloper%2Bcartoon&docid=b2nbcE28T9G3dM&w=540&h=360&itg=1&q=animated%20coding%20images&ved=0CAIQxiAoAGoXChMIqOaviPPshQMVAAAAAB0AAAAAEA8">
