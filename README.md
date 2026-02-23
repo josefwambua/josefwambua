@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/userupload/12479341/file/original-877e23584966cb04733d79a654cca2d0.jpg?resize=752x" alt="MasterHead" style="width:100%; height:400px;">
+<!-- <img src="https://cdn.dribbble.com/userupload/12479341/file/original-877e23584966cb04733d79a654cca2d0.jpg?resize=752x" alt="MasterHead" style="width:100%; height:400px;"> -->
 <img align="right" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" width="400">
 <h1 align="center">Hi 👋, I'm Joseph Wambua</h1>
 <h3 align="center">A passionate Software developer from Kenya.</h3>
