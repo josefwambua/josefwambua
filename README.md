@@ -8,9 +8,9 @@
     </div>
     <div style="margin-left: 20px;">
         <ul>
-            <li>🌱 I’m currently learning <strong>Django, Flutter</strong></li>
+            <li>🌱 I’m currently learning <strong>Php, Laravel</strong></li>
             <li>👨‍💻 All of my projects are available at <a href="https://joseph-wambua-portfolio.vercel.app/">joseph-wambua-portfolio.vercel.app</a></li>
-            <li>💬 Ask me about <strong>Javascript, Python</strong></li>
+            <li>💬 Ask me about <strong>Javascript</strong></li>
             <li>📫 How to reach me <strong>josefwambua2@gmail.com <spa> | 0798169149</strong></li>
         </ul>
     </div>
